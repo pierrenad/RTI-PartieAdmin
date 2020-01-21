@@ -1,0 +1,4 @@
+24/12/2019 15:36:11 > ServeurCompagnie :Creation des threads du pool de thread
+24/12/2019 15:36:11 > ServeurCompagnie : attente sur accept
+24/12/2019 15:36:23 > /192.168.1.55:51841#accept#thread serveurCompagnie
+24/12/2019 15:36:23 > ServeurCompagnie : IOException invalid stream header: 4C4F4749
